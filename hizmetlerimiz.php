@@ -42,13 +42,13 @@ if ($alan_id) {
 		<title>NordEx - Premium App Landing Pages Pack</title>
 							
 		<!-- FAVICON AND TOUCH ICONS -->
-		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
-		<link rel="apple-touch-icon" sizes="152x152" href="images/apple-touch-icon-152x152.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="images/apple-touch-icon-120x120.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="images/apple-touch-icon-76x76.png">
-		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-		<link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
+		<link rel="shortcut icon" href="images/faviconico" type="image/x-icon">
+		<link rel="icon" href="images/favico.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" sizes="152x152" href="images/appletouch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="images/appl-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="imagesapple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" href="iages/apple-touch-icon.png">
+		<link rel="icon" href="images/apple-touch-con.png" type="image/x-icon">
 
 		<!-- GOOGLE FONTS -->
 		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -104,7 +104,6 @@ if ($alan_id) {
 		<div id="page" class="page">
 
 
-
 			<!-- HEADER
 			============================================= -->
 			<header id="header" class="header tra-menu navbar-light">
@@ -132,10 +131,9 @@ if ($alan_id) {
 	      					<nav class="wsmenu clearfix">
 	        					<ul class="wsmenu-list nav-skyblue-hover">
 									 <!-- SIMPLE NAVIGATION LINK -->
-							    	<li class="nl-simple" aria-haspopup="true"><a href="/">Anasayfa</a></li>
+							    	<li class="nl-simple" aria-haspopup="true"><a href="/internetProgramming">Anasayfa</a></li>
 
-
-
+									
 								   
 
 
@@ -147,7 +145,7 @@ if ($alan_id) {
 
 
 							    	<!-- SIMPLE NAVIGATION LINK --> 
-							    	<li class="nl-simple" aria-haspopup="true"><a href="#faqs-2">Hakkımızda</a></li>
+							    	<li class="nl-simple" aria-haspopup="true"><a href="/internetProgramming">Hakkımızda</a></li>
 
 
 				
@@ -166,6 +164,7 @@ if ($alan_id) {
 
 
 
+
 			
 
 			<!-- BLOG POSTS LISTING
@@ -180,7 +179,7 @@ if ($alan_id) {
 							<div class="section-title text-center pc-50 mb-70">		
 
 								<!-- Title -->	
-								<h3 class="h3-lg">EVET DOĞRU YERDESİN HOŞGELDİN</h3>	
+								<h3 class="h3-lg">EVET DOĞRU YERDESİN HOŞ GELDİN</h3>	
 
 								<!-- Text -->	
 								<p class="p-xl">YAZA EHLİYETSİZ GİRME !!!!!
@@ -209,11 +208,12 @@ if ($alan_id) {
 							<div class="col-lg-5 blog-post-txt">
 
 								<!-- Post Tag -->
-								<p class="p-md post-tag">NEDENMİ EHLİYET ALMALISIN</p>	
+								<p class="p-md post-tag">NEDEN Mİ EHLİYET ALMALISIN </p>	
 
 								<!-- Post Link -->
 								<h5 class="h5-xl">
-									<a href="single-post.html">İŞTE SEBEPLER</a>
+									<a href="https://www.sigortam.net/trafik-cezalari">İŞTE SEBEPLER</a>
+									
 								</h5>
 
 								<!-- Text -->
@@ -320,10 +320,10 @@ if ($alan_id) {
 									<li class="page-item disabled"><a class="page-link" href="#" tabindex="-1">
 										<span class="flaticon-chevron-pointing-to-the-left"></span>
 									</a></li>
-								    <li class="page-item active"><a class="page-link" href="#">1 <span class="sr-only">(current)</span></a></li>
-								    <li class="page-item"><a class="page-link" href="#">2</a></li>
-								    <li class="page-item"><a class="page-link" href="#">3</a></li>
-								    <li class="page-item"><a class="page-link" href="#">4</a></li>
+								    <li class="page-item active"><a class="page-link" href="hizmetlerimiz.php?alan_id=1">1 <span class="sr-only">(current)</span></a></li>
+								    <li class="page-item"><a class="page-link" href="hizmetlerimiz.php?alan_id=2">2</a></li>
+								    <li class="page-item"><a class="page-link" href="hizmetlerimiz.php?alan_id=3">3</a></li>
+								    
 								    <li class="page-item"><a class="page-link" href="#"><span class="flaticon-right-chevron"></span></a></li>
 								</ul>	
 							</nav>					
@@ -370,7 +370,7 @@ if ($alan_id) {
 									</div>
 
 									<!-- Newsletter Form Notification -->	
-									<label for="s-email" class="form-notification"></label>
+									<label for="s-email" class="for m-notification"></label>
 												
 								</form>							
 							</div>	  <!-- END NEWSLETTER FORM -->

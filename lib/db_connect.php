@@ -23,22 +23,6 @@ class Surucu
         }
     }
 
-    public function getOyuncuById($oyuncuId = 0)
-    {
-        if ($oyuncuId) {
-            $dbCongArr = $this->getDbConf();
-            try {
-                $db = new PDO($dbCongArr[0], $dbCongArr[1], $dbCongArr[2]);
-            } catch (PDOException $e) {
-                return false;
-            }
-            $query = $db->prepare("SELECT * FROM tbl_oyuncu    JOIN tbl_takim ON tbl_oyuncu.takim_id = tbl_takim.id   WHERE tbl_oyuncu.id = :oyuncuId");
-            $result = $query->execute([":oyuncuId"=>$oyuncuId]);
-            $oyuncu = $query->fetch(PDO::FETCH_ASSOC);
-            return $oyuncu;
-        }
-    }
-
 
 
 

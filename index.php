@@ -19,16 +19,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 				
   		<!-- SITE TITLE -->
-		<title>NordEx - Premium App Landing Pages Pack</title>
+		<title>MUTLUAY</title>
 							
 		<!-- FAVICON AND TOUCH ICONS -->
-		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
-		<link rel="apple-touch-icon" sizes="152x152" href="images/apple-touch-icon-152x152.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="images/apple-touch-icon-120x120.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="images/apple-touch-icon-76x76.png">
-		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-		<link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
+		<link rel="shortcut icon" href="" type="image/x-icon">
+		<link rel="icon" href="" type="image/x-icon">
+		<link rel="apple-touch-icon" sizes="152x152" href="">
+		<link rel="apple-touch-icon" sizes="120x120" href="">
+		<link rel="apple-touch-icon" sizes="76x76" href="">
+		<link rel="apple-touch-icon" href="">
+		<link rel="icon" href="" type="image/x-icon">
 
 		<!-- GOOGLE FONTS -->
 		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -113,7 +113,7 @@
 	      					<nav class="wsmenu clearfix">
 	        					<ul class="wsmenu-list nav-skyblue-hover">
 									 <!-- SIMPLE NAVIGATION LINK -->
-							    	<li class="nl-simple" aria-haspopup="true"><a href="/">Anasayfa</a></li>
+							    	<li class="nl-simple" aria-haspopup="true"><a href="/internetProgramming">Anasayfa</a></li>
 
 
 
@@ -128,9 +128,9 @@
 
 
 							    	<!-- SIMPLE NAVIGATION LINK --> 
-							    	<li class="nl-simple" aria-haspopup="true"><a href="/">Hakkımızda</a></li>
+							    	<li class="nl-simple" aria-haspopup="true"><a href="/internetProgramming">Hakkımızda</a></li>
 
-
+                                   
 				
 
 
@@ -161,7 +161,7 @@
 								<div class="col-md-5 col-lg-6 m-bottom">	
 									<div class="hero-2-img pc-25 mb-40">	
 																						
-					 				
+					 				<script type="text/javascript">var kurlist=",ONS,USD,EUR,GRA,";var genislik=440;var bbg="FF1F1F";var yr="4D4D4D";var zbg="96C0FF";var br="DEDEDE";var by="Altın Piyasa"</script><ins data-client-id="mb-095720171805"></ins><a id="bplnk" href="https://www.altinpiyasa.com">Altın Fiyatları</a><script type="text/javascript" src="https://www.altinpiyasa.com/eklenti/eklenti-min.js"></script>
 										<!-- Preview Image --> 
 					 					<img class="img-fluid" src="https://www.sidesurucukursu.com/images/featured-03.jpg" alt="hero-image">
 						
@@ -180,13 +180,13 @@
 
 										<!-- Text -->
 										<p class="p-lg">Hızlı Lisans:Ehliyet almak için gereksiz bir şekilde beklemenize gerek yok. İşleriniz sizin adınıza tarafımızca yapılacak.
-										Videolu AnlatımZengin yazılı dökümanlarımızın yanında en iyi eğitimciler tarafından hazırlanmış olan videolu derslerimiz mevcuttur.
-										Tecrübeli EğitmenlerEğitmen kadromuz, işlerinde uzman kişiler olup genç, dinamik ve alanında sertifikalı eğitmenlerden oluşmaktadır.
+										Videolu anlatım zengin yazılı dökümanlarımızın yanında en iyi eğitimciler tarafından hazırlanmış olan videolu derslerimiz mevcuttur.
+										Tecrübeli eğitmenler eğitmen kadromuz, işlerinde uzman kişiler olup genç, dinamik ve alanında sertifikalı eğitmenlerden oluşmaktadır.
 
 									
 										</p>
                                         
-										
+										<div id="ww_6bf4e5524c955" v='1.3' loc='id' a='{"t":"ticker","lang":"tr","sl_lpl":1,"ids":["wl5741"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722"}'>Weather for the Following Location: <a href="https://2ua.org/tur/eskisehir/map/" id="ww_6bf4e5524c955_u" target="_blank">Eskisehir map, Turkey</a></div><script async src="https://app1.weatherwidget.org/js/?id=ww_6bf4e5524c955"></script>
 
 										<!-- STORE BADGES -->												
 										<div class="stores-badge">
@@ -385,7 +385,7 @@
 
 	</body>
 
-
+       
 
 
 </html>	
