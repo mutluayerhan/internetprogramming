@@ -139,7 +139,7 @@ if ($alan_id) {
 
 							  
 							    	<!-- SIMPLE NAVIGATION LINK --> 
-							    	<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=1">A1 Motosiklet</a></li>
+							    	<li class="nl-simple" aria-haspopup="true "><a href="hizmetlerimiz.php?alan_id=1">A1 Motosiklet</a></li>
 									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=2">A2 Motosiklet</a></li>
 									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=3">B1 Otomobil</a></li>
 
@@ -208,16 +208,23 @@ if ($alan_id) {
 							<div class="col-lg-5 blog-post-txt">
 
 								<!-- Post Tag -->
-								<p class="p-md post-tag">NEDEN Mİ EHLİYET ALMALISIN </p>	
+								<p class="p-md post-tag"> </p>	
 
 								<!-- Post Link -->
 								<h5 class="h5-xl">
-									<a href="https://www.sigortam.net/trafik-cezalari">İŞTE SEBEPLER</a>
+									<a href="https://www.nvi.gov.tr/ssss-surucu-belgesi">SÜRÜCÜ BELGESİ HAKKINDA</a>
 									
 								</h5>
-
+								<h5 class="h5-xl">
+									<a href="https://www.guncelakademi.com/meb-elektronik-sinav-gorevi-nedire-sinav-h1238.html">E SINAV NEDİR</a>
+									
+								</h5>
+								<h5 class="h5-xl">
+									<a href="https://www.sigortam.net/stajyer-ehliyet-nedir">STAJYER EHLİYET NEDİR</a>
+									
+								</h5>
 								<!-- Text -->
-								<p class="p-md">GÜVENDE HİSSETMELİSİN
+								<p class="p-md">
 									
 								</p>
 
@@ -317,13 +324,15 @@ if ($alan_id) {
 
 							<nav aria-label="Page navigation">
 								<ul class="pagination ico-20 justify-content-center">
-									<li class="page-item disabled"><a class="page-link" href="#" tabindex="-1">
+									<li class="page-item disabled"><a class="page-link" href="" tabindex="-1">
 										<span class="flaticon-chevron-pointing-to-the-left"></span>
 									</a></li>
 								    <li class="page-item active"><a class="page-link" href="hizmetlerimiz.php?alan_id=1">1 <span class="sr-only">(current)</span></a></li>
 								    <li class="page-item"><a class="page-link" href="hizmetlerimiz.php?alan_id=2">2</a></li>
 								    <li class="page-item"><a class="page-link" href="hizmetlerimiz.php?alan_id=3">3</a></li>
-								    
+								    <li class="page-item"><a class="page-link" href="hizmetlerimiz.php?alan_id=3">4</a></li>
+                                    <li class="page-item"><a class="page-link" href="hizmetlerimiz.php?alan_id=3">5</a></li>
+
 								    <li class="page-item"><a class="page-link" href="#"><span class="flaticon-right-chevron"></span></a></li>
 								</ul>	
 							</nav>					

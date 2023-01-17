@@ -265,10 +265,10 @@
 
 								<!-- Footer Links -->
 								<ul class="foo-links clearfix">
-									<li><p class="p-md"><a href="#">Eskişehir Odunpazarı Bozlak Sokak</a></p></li>
-									<li><p class="p-md"><a href="#">Eskişehir Tepebaşı Kuş Sokak</a></p></li>
-									<li><p class="p-md"><a href="#">Eskişehir Sütlüce Kaynar Sokak</a></p></li>
-									<li><p class="p-md"><a href="#">Eskişehir Emek Taşbaşı Sokak</a></p></li>
+									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115840/odunpazari/geo/bozlak_sok_/2405840059/?ll=30.582083%2C39.745138&z=17">Eskişehir Odunpazarı Bozlak Sokak</a></p></li>
+									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115841/tepebasi/house/uzunlar_sok_48/Z0kYcgJmTEcBQF1jfXt2dnhnbQ==/?ll=30.456526%2C39.777449&z=16">Eskişehir Tepebaşı Uzunlar Sokak</a></p></li>
+									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115841/tepebasi/house/yaylapinar_sok_77a/Z0kYcg5hQEUFQF1jfXt4d3pqYQ==/?ll=30.491902%2C39.796695&z=16">Eskişehir Sütlüce Yaylapınar Sokak</a></p></li>
+									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115841/tepebasi/house/emek_sok_4/Z0kYcwZmSE0EQF1jfXt5cHtibQ==/?ll=30.516183%2C39.781719&z=16">Eskişehir Emek Taşbaşı Sokak</a></p></li>
 								</ul>						
 
 							</div>	
@@ -299,9 +299,9 @@
 							<div class="footer-socials-links text-right mb-25">
 							
 								<!-- Social Links -->
-								<h5 class="h5-xs"><a href="#" class="foo-facebook">Facebook</a></h5>
-								<h5 class="h5-xs"><a href="#" class="foo-twitter">Twitter</a></h5>
-								<h5 class="h5-xs"><a href="#" class="foo-instagram">Instagram</a></h5>
+								<h5 class="h5-xs"><a href="https://www.facebook.com/campaign/landing.php?&campaign_id=1603087355&extra_1=s%7Cc%7C305038450781%7Ce%7Cfacebook%27%7C&placement=&creative=305038450781&keyword=facebook%27&partner_id=googlesem&extra_2=campaignid%3D1603087355%26adgroupid%3D61834755758%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-362360550869%26loc_physical_ms%3D1012776%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=EAIaIQobChMIvfaln8fH_AIVQ7LVCh2ZxA1sEAAYASAAEgLYT_D_BwE" class="foo-facebook">Facebook</a></h5>
+								<h5 class="h5-xs"><a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoidHIifQ%3D%3D%22%7D" class="foo-twitter">Twitter</a></h5>
+								<h5 class="h5-xs"><a href="https://www.instagram.com/" class="foo-instagram">Instagram</a></h5>
 																						
 								<!--	
 								<h5 class="h5-sm"><a href="#" class="foo-behance">Facebook</a></h5>
