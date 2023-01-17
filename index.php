@@ -110,17 +110,19 @@
 
 
 	    					<!-- MAIN MENU -->
-	      					<nav class="wsmenu clearfix">
+	      					<nav class="wsmenu clearfix">                    
 	        					<ul class="wsmenu-list nav-skyblue-hover">
-									 <!-- SIMPLE NAVIGATION LINK -->
+								<!-- SIMPLE NAVIGATION LINK -->
+                             <form action="sonuc.php" method="get">
+                                <input type="text" name="aramasorgusu" placeholder="Aramak istediğiniz kelimeyi yazınız"><br>
+                                <input type="submit" value="Ara">
+                                </form>
+                                
+
+
+								
 							    	<li class="nl-simple" aria-haspopup="true"><a href="/internetProgramming">Anasayfa</a></li>
 
-
-
-								   
-
-
-							  
 							    	<!-- SIMPLE NAVIGATION LINK --> 
 							    	<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=1">A1 Motosiklet</a></li>
 									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=2">A2 Motosiklet</a></li>
@@ -175,6 +177,7 @@
 								<div class="col-md-7 col-lg-6 m-top">
 									<div class="hero-2-txt mb-40 white-color">
 
+									
 										<!-- Title  -->
 										<h2 class="h2-xl">AVANTAJLARIMIZ</h2>
 
@@ -307,7 +310,10 @@
 								<h5 class="h5-sm"><a href="#" class="foo-behance">Facebook</a></h5>
 								<h5 class="h5-sm"><a href="#" class="foo-pinterest">Twitter</a></h5>
 								<h5 class="h5-sm"><a href="#" class="foo-linkedin">Instagram</a></h5>
-								
+								<h5 class="h5-sm"><a href="#" class="google-plus">Dribbble</a></h5>
+								<h5 class="h5-sm"><a href="#" class="youtube">Twitter</a></h5>
+								<h5 class="h5-sm"><a href="#" class="foo-tumblr">Instagram</a></h5>
+								<h5 class="h5-sm"><a href="#" class="foo-vk">Dribbble</a></h5>	
 								-->
 
 							</div>
