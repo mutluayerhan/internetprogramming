@@ -273,7 +273,7 @@
 									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115840/odunpazari/geo/bozlak_sok_/2405840059/?ll=30.582083%2C39.745138&z=17">Eskişehir Odunpazarı Bozlak Sokak</a></p></li>
 									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115841/tepebasi/house/uzunlar_sok_48/Z0kYcgJmTEcBQF1jfXt2dnhnbQ==/?ll=30.456526%2C39.777449&z=16">Eskişehir Tepebaşı Uzunlar Sokak</a></p></li>
 									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115841/tepebasi/house/yaylapinar_sok_77a/Z0kYcg5hQEUFQF1jfXt4d3pqYQ==/?ll=30.491902%2C39.796695&z=16">Eskişehir Sütlüce Yaylapınar Sokak</a></p></li>
-									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115841/tepebasi/house/emek_sok_4/Z0kYcwZmSE0EQF1jfXt5cHtibQ==/?ll=30.516183%2C39.781719&z=16">Eskişehir Emek Taşbaşı Sokak</a></p></li>
+									<li><p class="p-md"><a href="https://yandex.com.tr/harita/115706/uskudar/?ll=29.017080%2C41.029096&z=12">İSTANBUL ÜSKÜDAR</a></p></li>
 								</ul>						
 
 							</div>	
@@ -384,7 +384,9 @@
 			})();
 		</script>
 		-->
-
+		<p>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48152.69528633698!2d29.01271007818618!3d41.035243200158526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac826d524c9f1%3A0xc14f7612337b7f38!2zw5xza8O8ZGFyL8Swc3RhbmJ1bA!5e0!3m2!1str!2str!4v1519733547760" width="1325" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 
 
