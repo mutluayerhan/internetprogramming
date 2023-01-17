@@ -307,10 +307,7 @@
 								<h5 class="h5-sm"><a href="#" class="foo-behance">Facebook</a></h5>
 								<h5 class="h5-sm"><a href="#" class="foo-pinterest">Twitter</a></h5>
 								<h5 class="h5-sm"><a href="#" class="foo-linkedin">Instagram</a></h5>
-								<h5 class="h5-sm"><a href="#" class="google-plus">Dribbble</a></h5>
-								<h5 class="h5-sm"><a href="#" class="youtube">Twitter</a></h5>
-								<h5 class="h5-sm"><a href="#" class="foo-tumblr">Instagram</a></h5>
-								<h5 class="h5-sm"><a href="#" class="foo-vk">Dribbble</a></h5>	
+								
 								-->
 
 							</div>
