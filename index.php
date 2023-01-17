@@ -112,7 +112,9 @@
 	    					<!-- MAIN MENU -->
 	      					<nav class="wsmenu clearfix">                    
 	        					<ul class="wsmenu-list nav-skyblue-hover">
-								<!-- SIMPLE NAVIGATION LINK -->
+							
+
+							
                              <form action="sonuc.php" method="get">
                                 <input type="text" name="aramasorgusu" placeholder="Aramak istediğiniz kelimeyi yazınız"><br>
                                 <input type="submit" value="Ara">
