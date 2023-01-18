@@ -129,10 +129,8 @@
 							    	<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=1">A1 Motosiklet</a></li>
 									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=2">A2 Motosiklet</a></li>
 									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=3">B1 Otomobil</a></li>
-
-
-							    	<!-- SIMPLE NAVIGATION LINK --> 
-							    	<li class="nl-simple" aria-haspopup="true"><a href="/internetProgramming">Hakkımızda</a></li>
+                                    <li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=4">İLETİŞİM</a></li>
+							    	
 
                                    
 				

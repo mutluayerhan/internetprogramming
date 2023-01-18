@@ -142,10 +142,8 @@ if ($alan_id) {
 							    	<li class="nl-simple" aria-haspopup="true "><a href="hizmetlerimiz.php?alan_id=1">A1 Motosiklet</a></li>
 									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=2">A2 Motosiklet</a></li>
 									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=3">B1 Otomobil</a></li>
-
-
-							    	<!-- SIMPLE NAVIGATION LINK --> 
-							    	<li class="nl-simple" aria-haspopup="true"><a href="/internetProgramming">Hakkımızda</a></li>
+									<li class="nl-simple" aria-haspopup="true"><a href="hizmetlerimiz.php?alan_id=4">İLETİŞİM</a></li>
+							    	
 
 
 				
@@ -289,7 +287,7 @@ if ($alan_id) {
 										<div class="post-meta">
 											<div class="post-author-avatar"><img src="https://media.istockphoto.com/id/1130542936/tr/vekt%C3%B6r/motosiklet-motosiklet-sembol-simge-siyah.jpg?s=612x612&w=0&k=20&c=wsXmU_ZoIFTZz5xv7v6rqkjlG2VwTuPxICSCiWYDbfc=" alt="author-avatar"></div>
 											
-											<p>A1 MOTOSİKLET</p>
+											<p></p>
 										</div>	
 
 									</div>
@@ -538,7 +536,9 @@ if ($alan_id) {
 		</script>
 		-->
 
-
+		<p>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48152.69528633698!2d29.01271007818618!3d41.035243200158526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac826d524c9f1%3A0xc14f7612337b7f38!2zw5xza8O8ZGFyL8Swc3RhbmJ1bA!5e0!3m2!1str!2str!4v1519733547760" width="1325" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 
 	</body>
